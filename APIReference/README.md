@@ -1,11 +1,13 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# Test Documentation
+# API reference
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
+
+{% include list.liquid all=true %}
 ```
 
 {% include list.liquid all=true %}
